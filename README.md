@@ -1,0 +1,2 @@
+🔍 Dataset: Global Power Plant Database (Fuel, Capacity, Country)
+🗒️ Problem: Let’s say you want to build a model to predict a plant’s fuel type or capacity class based on geography and plant characteristics.
